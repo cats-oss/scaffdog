@@ -67,7 +67,7 @@
     "@types/update-notifier": "5.0.0",
     "@types/wrap-ansi": "3.0.0",
     "@types/yargs": "16.0.1",
-    "strip-ansi": "6.0.0",
+    "strip-ansi": "7.0.0",
     "type-fest": "1.0.1"
   },
   "publishConfig": {
