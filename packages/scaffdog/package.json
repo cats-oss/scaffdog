@@ -49,7 +49,7 @@
     "inquirer": "^8.0.0",
     "inquirer-autocomplete-prompt": "^1.3.0",
     "is-plain-object": "^5.0.0",
-    "log-symbols": "^4.1.0",
+    "log-symbols": "^5.0.0",
     "micromatch": "^4.0.4",
     "node-emoji": "^1.10.0",
     "plur": "^4.0.0",
