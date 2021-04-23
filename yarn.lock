@@ -4602,6 +4602,11 @@ mdast-util-to-string@^2.0.0:
   resolved "https://registry.yarnpkg.com/mdast-util-to-string/-/mdast-util-to-string-2.0.0.tgz#b8cfe6a713e1091cb5b728fc48885a4767f8b97b"
   integrity sha512-AW4DRS3QbBayY/jJmD8437V1Gombjf8RSOUCMFBuo5iHi58AGEgVCKQ+ezHkZZDpAQS75hcBMpLqjpJTjtUL7w==
 
+mdast-util-to-string@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/mdast-util-to-string/-/mdast-util-to-string-3.0.0.tgz#4f503fef468eb01d0de5640a03c47beddf28455e"
+  integrity sha512-xBZYj/8IKBXDTgam6LEYIijUNg3x+LBtiwH28N1QBVjNZsFeWQ2zH/Rbg0I2oggbs5h1C9EWw+UZE1FiWvjbhw==
+
 mem@^8.0.0:
   version "8.0.0"
   resolved "https://registry.yarnpkg.com/mem/-/mem-8.0.0.tgz#b5e4b6d2d241c6296da05436173b4d0c7ae1f9ac"
