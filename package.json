@@ -38,7 +38,7 @@
     "@commitlint/config-lerna-scopes": "12.1.1",
     "@types/mock-fs": "4.13.0",
     "@types/node": "14.14.37",
-    "@types/sinon": "9.0.11",
+    "@types/sinon": "10.0.2",
     "@typescript-eslint/eslint-plugin": "4.21.0",
     "@typescript-eslint/parser": "4.21.0",
     "ava": "3.15.0",
